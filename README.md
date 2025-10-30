@@ -44,9 +44,9 @@ I'm a results-driven **Full-Stack Developer** and **QA enthusiast** focused on b
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Halidha99&theme=tokyonight&ring=0077c9&fire=0096ff&side=c7c7c7&dates=a1a1a1&hide_border=true"/>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/Halidha99">
